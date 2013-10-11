@@ -1,0 +1,15 @@
+---
+title: gSchool - week 4
+date: 2013-10-11 15:13 UTC
+tags:
+---
+
+This week was interesting, we were given the opportunity to take some time and "focus" on where we thought we needed to close gaps. I really enjoyed the class time with Katrina and Franklin going through the fundamentals. I am finding that having no previous codeing experience coming into this program, repetition is key. I feel more comfortable with some of the fundamentals of ruby now... 
+
+I still really need to focus on the way methods call on each other, I get methods written in my programs mixed up with the actual ruby syntax. It's coming - slooooowly.
+
+As for being in the smaller groups this week, I loved it! For me personally, I think this is how I learn better. I would LOVE to be able to go through this program in a "small group" setting... it would give the more experienced people the opportunity to really "take off", and people who may be struggling a chance to learn @ a bit of a "slower pace", but still getting to the end goal of being an equipped programmer at the six month mark as well.
+
+We are starting web applications next week... I don't feel like I'm ready for that! I will give it my best though, just like everything else I have learned thus far - it takes heaps of time, loads of "nose to the grind-stone". I am, however, excited to see my project up on the internet! Instead of just being a ruby program, it will be something that I can see, play with, show my wife and kiddo!
+
+... here's to another crazy week!
