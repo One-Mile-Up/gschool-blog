@@ -1,0 +1,18 @@
+---
+title: gSchool
+date: 2013-11-01 15:28 UTC
+tags:
+---
+
+CloneWars --
+
+This was a pretty sweet project, I am glad it got thrown in. Although I wasn't able to really help on the "Ruby" or "Sinatra" side of things with my group - I got to play around a little bit with creating views through HTML & CSS by "scraping" a website and modifying the data. Once I started to understand how these languages are used, I really started having some fun... It's really cool to make a change on some code - then immediately check to see what happens on the webpage. My partners were great at helping me understand Git a little bit better, and it's importance when working in a group on the same project. It was really helpful to me to be present when they were trying to build the database and such -- to see the struggles and how they came to a conclusion.
+
+If we had another week to do it over again, I think it'd be cool to try and make a better site for a MX track or Paintball field that I like to frequent in my spare time... wait... spare time??? What is THAT?!?
+
+The three person group was great as far as I'm concerned. If I got stuck on something, I could ask one of the others in my group for help - and it wouldn't cripple our progress on the project. 
+
+All-in-all, This was a fun project and I really enjoyed getting to see the demos of other groups and the sweet stuff that they were able to come up with! 
+
+... next up - RAILS! (yikes!)
+

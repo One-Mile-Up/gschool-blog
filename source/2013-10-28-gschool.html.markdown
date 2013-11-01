@@ -1,5 +1,5 @@
 ---
-title: gSchool Week 8
+title: gSchool
 date: 2013-10-28 15:29 UTC
 tags:
 ---

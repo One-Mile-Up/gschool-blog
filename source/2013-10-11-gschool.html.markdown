@@ -1,5 +1,5 @@
 ---
-title: gSchool - week 4
+title: gSchool
 date: 2013-10-11 15:13 UTC
 tags:
 ---
