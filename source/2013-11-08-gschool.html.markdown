@@ -1,0 +1,17 @@
+---
+title: gSchool
+date: 2013-11-08 17:19 UTC
+tags:
+---
+
+Dinner Dash --
+
+Just as I expected, Rails... yikes!
+
+It's weird, I felt pretty good about going through the tutorial over this past weekend... then Monday came - haha. 
+
+Next project "Dinner Dash", is our first stab at creating a website using Ruby on Rails. The learning curve is (as Jeff predicted) pretty steep. Now, I am really confused, but I feel like it'll be ok if I stick with it over the remaining 4 months I have left here in the program. I really do want to learn these languages in order to build things... I guess I just have to keep beating my face against this brick wall until it sinks in - which I hope is soon. 
+
+I am looking forward to the next 4 months. I'm excied to see what will come out of it. People are already building really cool stuff - I can't imagine what I will see in the near future... I just hope I can do some of it as well! 
+
+;]
