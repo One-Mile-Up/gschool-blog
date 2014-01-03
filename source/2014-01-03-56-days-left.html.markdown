@@ -4,3 +4,23 @@ date: 2014-01-03 16:06 UTC
 tags:
 ---
 
+Time is flying... 56 days left.
+
+Big goals is to have a firm foudation in Ruby and also be comfortable with testing (minitest, rspec, etc.) I hope that I can really break through some barriers over the next two months!
+
+I think my biggest blocker at this point is going to be focusing on my task at hand (learning - instead of worrying about getting a job). I believe that the time I put in is adequate... this is one area I will look back on and KNOW without a doubt that I did my part on! Over the next couple months I think I will just have to make sure I am going over fundamentals and testing to be sure I will be as ready as possible for what's next... 
+
+My concrete plan to get where I need to be:
+
+1. Continue to pair with Katrina over the    fundamentals.
+
+2. Continue to pair with Jorge over testing.
+
+3. Continue to utilize my mentor.
+
+4. Continue to use the Pragmatic series of videos/workbook to solidify what I have already learned.
+
+Hopefully all these things - paired with my drive will get me where I need to be by the end of class. 
+
+Looking forward to what 2014 will bring!
+
