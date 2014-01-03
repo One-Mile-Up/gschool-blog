@@ -1,0 +1,11 @@
+---
+title: gSchool
+date: 2013-12-06 16:10 UTC
+tags:
+---
+
+Fourth Meal --
+
+Interesting project. We are in a group of 3, we pick one persons' past project (from Dinner Dash) and our group then has to build upon it. 
+
+This time around, we are to take a more serious approach to how we are managing the project. We decided to use Pivitol Labs' "tracker" to get the job done! I am a fan of this type of work style... its easier to keep on track with what has been finished -vs- what still needs done... also, you always know where you stand with your teammates.
